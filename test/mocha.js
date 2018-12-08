@@ -44,3 +44,5 @@ describe('#math', () => {
 
 // 测试覆盖率 npm install --save-dev istanbul
 // branch分支就是if else这样的代码，有几个条件就有几个分支
+
+// 持续集成
